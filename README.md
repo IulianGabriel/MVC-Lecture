@@ -27,4 +27,4 @@ To access the lecture materials:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/IulianGabriel/MVC-Lecture.git
+   git clone https://github.com/IulianGabriel/MVC-Lecture
